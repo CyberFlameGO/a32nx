@@ -71,7 +71,7 @@
     "jest": "^27.4.7",
     "jsdom": "^16.4.0",
     "lint-staged": "10.4.0",
-    "postcss": "^8.4.5",
+    "postcss": "^8.4.31",
     "postcss-color-functional-notation": "^4.2.2",
     "prettier": "2.1.2",
     "react-msfs": "^0.1.4",
